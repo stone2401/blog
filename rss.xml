@@ -2,7 +2,7 @@
 <channel>
 <title>小石 · 足迹</title>
 <link>http://localhost:8090/</link>
-<description>小石 · 足迹</description>
+<description>feedId:61590963577616384+userId:58581761255837696</description>
 <image>
 <url>http://localhost:8090/upload/395fc0190f3caa981790563e002a03f7.png</url>
 <title>小石 · 足迹</title>
@@ -11,7 +11,20 @@
 <ttl>60</ttl>
 <language>zh-cn</language>
 <copyright>Copyright © 2024 小石 · 足迹</copyright>
-<pubDate>Wed, 25 Sep 2024 01:20:47 GMT</pubDate>
+<pubDate>Wed, 25 Sep 2024 02:28:30 GMT</pubDate>
+<lastBuildDate>Tue, 24 Sep 2024 16:03:16 GMT</lastBuildDate>
+<item>
+<title>
+<![CDATA[ feedId:61590963577616384+userId:58581761255837696 ]]>
+</title>
+<link>http://localhost:8090/archives/feedid-61590963577616384-userid-58581761255837696</link>
+<description>
+<![CDATA[ <img src="http://localhost:8090/" alt="封面图片" style="max-width:100%; height:auto;" /><br/><p style="">This message is used to verify that this feed (feedId:61590963577616384) belongs to me (userId:58581761255837696). Join me in enjoying the next generation information browser https://follow.is.</p> ]]>
+</description>
+<author>stone2401</author>
+<guid>/archives/feedid-61590963577616384-userid-58581761255837696</guid>
+<pubDate>Wed, 25 Sep 2024 02:27:51 GMT</pubDate>
+</item>
 <item>
 <title>
 <![CDATA[ Hello Halo ]]>
@@ -23,6 +36,11 @@
 <author>stone2401</author>
 <guid>/archives/hello-halo</guid>
 <pubDate>Tue, 24 Sep 2024 16:03:16 GMT</pubDate>
+<category>默认分类</category>
 </item>
+<follow_challenge>
+<feedId>61590963577616384</feedId>
+<userId>58581761255837696</userId>
+</follow_challenge>
 </channel>
 </rss>
