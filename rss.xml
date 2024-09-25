@@ -2,7 +2,7 @@
 <channel>
 <title>小石 · 足迹</title>
 <link>http://localhost:8090/</link>
-<description>feedId:61590963577616384+userId:58581761255837696</description>
+<description>feedId:+userId:</description>
 <image>
 <url>http://localhost:8090/upload/395fc0190f3caa981790563e002a03f7.png</url>
 <title>小石 · 足迹</title>
@@ -19,7 +19,7 @@
 </title>
 <link>http://localhost:8090/archives/feedid-61590963577616384-userid-58581761255837696</link>
 <description>
-<![CDATA[ <img src="http://localhost:8090/" alt="封面图片" style="max-width:100%; height:auto;" /><br/><p style="">This message is used to verify that this feed (feedId:61590963577616384) belongs to me (userId:58581761255837696). Join me in enjoying the next generation information browser https://follow.is.</p> ]]>
+<![CDATA[ <img src="http://localhost:8090/" alt="封面图片" style="max-width:100%; height:auto;" /><br/><p style="">This message is used to verify that this feed (feedId:) belongs to me (userId:). Join me in enjoying the next generation information browser https://follow.is.</p> ]]>
 </description>
 <author>stone2401</author>
 <guid>/archives/feedid-61590963577616384-userid-58581761255837696</guid>
@@ -39,8 +39,8 @@
 <category>默认分类</category>
 </item>
 <follow_challenge>
-<feedId>61590963577616384</feedId>
-<userId>58581761255837696</userId>
+<feedId></feedId>
+<userId></userId>
 </follow_challenge>
 </channel>
 </rss>
